@@ -1,0 +1,5 @@
+Actor.create({first_name: "Benedict", last_name: "Cumberbatch", known_for: "Sherlock"})
+Actor.create({first_name: "Nathan", last_name: "Fillion", known_for: "Firefly"})
+
+Movie.create({title: "Galaxy Quest", year: "1999", plot: "The stars of a 1970s sci-fi show - now scraping a living through re-runs and sci-fi conventions - are beamed aboard an alien spacecraft. Believing the cast's heroic on-screen dramas are historical documents of real-life adventures, the band of aliens turn to the ailing celebrities for help in their quest to overcome the oppressive regime in their solar system."})
+Movie.create({title: "Doctor Strange", year: "2016", plot: "Dr. Stephen Strange's life changes after a car accident robs him of the use of his hands. When traditional medicine fails him, he looks for healing, and hope, in a mysterious enclave. He quickly learns that the enclave is at the front line of a battle against unseen dark forces bent on destroying reality. Before long, Strange is forced to choose between his life of fortune and status or leave it all behind to defend the world as the most powerful sorcerer in existence."})
